@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href = "styleSongList.css" ?>
+<songs>
+    <song>
+        <title>Redemption Song</title>
+        <artistName>Bob Marley ft The Wailers</artistName>
+        <musicGenre>Reggae</musicGenre>
+        <releaseYear>1980</releaseYear>
+    </song>
+    <song>
+        <title>Izzo(H.O.V.A.)</title>
+        <artistName>JAY-Z</artistName>
+        <musicGenre>Rap/Hip-Hop</musicGenre>
+        <releaseYear>2002</releaseYear>
+    </song>
+    <song>
+        <title>Drop It Like It's Hot</title>
+        <artistName>Snoop Dogg ft Pharrell Williams</artistName>
+        <musicGenre>HipHop</musicGenre>
+        <releaseYear>2004</releaseYear>
+    </song>
+    <song>
+        <title>Alright</title>
+        <artistName>Kendrick Lamar</artistName>
+        <musicGenre>Hip-Hop</musicGenre>
+        <releaseYear>2015</releaseYear>
+    </song>
+    <song>
+        <title>DNA</title>
+        <artistName>Kendrick Lamar</artistName>
+        <musicGenre>Hip-Hop</musicGenre>
+        <releaseYear>2015</releaseYear>
+    </song>
+    <song>
+        <title>MOOD 4 EVA</title>
+        <artistName>Beyonce ft JAY-Z ft Childish Gambino ft Oumou Sangare</artistName>
+        <musicGenre>Rap/Afrobeat/Pop</musicGenre>
+        <releaseYear>2019</releaseYear>
+    </song>
+    <song>
+        <title>Underdog</title>
+        <artistName>Alicia Keys</artistName>
+        <musicGenre>Pop</musicGenre>
+        <releaseYear>2020</releaseYear>
+    </song>
+    <song>
+        <title>Katerina</title>
+        <artistName>Bruce Melodi</artistName>
+        <musicGenre>Pop</musicGenre>
+        <releaseYear>2020</releaseYear>
+    </song>
+    <song>
+        <title>Low Key</title>
+        <artistName>Yvan Buravan</artistName>
+        <musicGenre>Pop</musicGenre>
+        <releaseYear>2020</releaseYear>
+    </song>
+    <song>
+        <title>Jerusalema</title>
+        <artistName>Master KG ft Nomcebo Zikode</artistName>
+        <musicGenre>Afrobeat</musicGenre>
+        <releaseYear>2020</releaseYear>
+    </song>
+    <song>
+        <title>Savage Remix</title>
+        <artistName>Megan Thee Stallion ft Beyonce</artistName>
+        <musicGenre>Rap/Hip-Hop</musicGenre>
+        <releaseYear>2020</releaseYear>
+    </song>
+</songs>

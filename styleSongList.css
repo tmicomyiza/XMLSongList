@@ -1,11 +1,19 @@
 @charset "utf-8";
 /* CSS Document */
+
+songs{
+        background-color: #b9b9c0;
+        margin-left: 3rem;
+    }
+
+
 song{
         display:block; 
-        border-bottom:
-        1px solid #141518; 
+        /* border-bottom:
+        1px solid #38383a;  */
         padding : 8px 0;
         font-size: 18px;
+
     }
 song title {font-size: 20px; font-weight: 700;}
 song artistName::before {content: "Artist(s): ";}
@@ -13,4 +21,3 @@ song musicGenre::before {content: "Genre: ";}
 song releaseYear::before {content: "Release Year:";}
 song artistName {display:block;}
 song releaseYear {display:block;}
-

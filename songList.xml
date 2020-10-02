@@ -67,4 +67,22 @@
         <musicGenre>Rap/Hip-Hop</musicGenre>
         <releaseYear>2020</releaseYear>
     </song>
+    <song>
+        <title>Rockstar</title>
+        <artistName>DaBaby ft Roddy Ricch</artistName>
+        <musicGenre>Rap/Hip-Hop</musicGenre>
+        <releaseYear>2020</releaseYear>
+    </song>
+    <song>
+        <title>POPSTAR</title>
+        <artistName>DJ Khaled ft Drake</artistName>
+        <musicGenre>Hip-Hop/POP</musicGenre>
+        <releaseYear>2020</releaseYear>
+    </song>
+    <song>
+        <title>WAP</title>
+        <artistName>Cardi B ft Megan Thee Stallion</artistName>
+        <musicGenre>Rap/Hip-Hop</musicGenre>
+        <releaseYear>2020</releaseYear>
+    </song>
 </songs>

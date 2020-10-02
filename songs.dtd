@@ -1,0 +1,8 @@
+<!DOCTYPE songs
+[
+    <!ELEMENT song (title,artistName,musicGenre,releaseYear)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT artistName (#PCDATA)>
+    <!ELEMENT musicGenre (#PCDATA)>
+    <!ELEMENT releaseYear (#PCDATA)>
+]>
